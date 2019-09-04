@@ -32,4 +32,4 @@ false. Поле author должно быть неизменяемым с мом�
 • Spring (версия не ниже 4.3.0.RELEASE);
 • Hibernate (версия не ниже 5.2.1.Final);
 • MySQL (база данных);
-• Frontend: Spring MVC or Angular or Vaadin or ZK framework.
+• Frontend: Spring MVC.
